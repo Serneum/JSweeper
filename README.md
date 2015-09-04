@@ -1,6 +1,3 @@
-JSweeper
-========
-
 JSweeper is a Minesweeper game written in Java. You can build the jar by running
 ```
 gradle jar
